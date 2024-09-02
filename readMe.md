@@ -79,9 +79,8 @@ Before you begin, ensure that:
 
    The `-u` flag sets the `origin` repository as the default remote for future pushes.
 
-Here's a `README.md` documentation in markdown format that includes steps for cloning a repository, making changes, pulling the latest code, forking, and creating a pull request:
 
-```markdown
+
 ## Git Class: Other things you can do with git
 
 This part covers essential Git operations, including cloning a repository, making changes, pulling the latest code, forking a repository, and creating a pull request.
