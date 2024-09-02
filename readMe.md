@@ -1,4 +1,3 @@
-```markdown
 # Git Class: Working with git and github
 
 This a documentation on how to create a new Git repository, add files, and push your code to a remote repository on GitHub.
